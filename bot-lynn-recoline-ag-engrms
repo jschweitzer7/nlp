@@ -1,0 +1,352 @@
+label;text
+pago;donde puedo ir a pagar
+pago;quiero ir a pagar
+pago;quiero abonar un pago
+pago;necesito porder hacer un pago
+pago;como puedo pagarles
+pago;realizar varios pagos
+pago;tengo que ponerme al día con los pagos
+pago;puedo pagar
+pago;quiero abonar
+pago;necesito pagar
+pago;como puedo cancelar la deuda
+pago;quiero saldar la deuda 
+pago;necesito realizar un abono
+pago;donde puedo ir a pagar a la sucursal
+pago;quiero ir a pagar en la pagina
+pago;quiero abonar un pago necesito pagar en la app
+pago;necesito porder hacer un pago por la aplicación
+pago;como puedo pagarles por la app
+pago;realizar varios pagos por la aplicación
+pago;tengo que ponerme al día con los pagos en Mi Entel
+pago;puedo pagar por la página web
+pago;quiero abonar como puedo pagar por la página
+pago;necesito pagar necesito hacer un pago en línea
+pago;como puedo cancelar la deuda por el sitio entel
+pago;quiero saldar la deuda por Mi entel
+pago;necesito realizar un abono a travez de la aplicación
+pago;donde puedo ir a pagar en mi entel
+pago;quiero ir a pagar por la app
+pago;quiero abonar un pago por la aplicación
+pago;necesito porder hacer un pago por el teléfono
+pago;como puedo pagarles en la pagina web
+pago;realizar varios pagos por el celular
+pago;tengo que ponerme al día con los pagos pero usando la aplicación
+pago;puedo pagar pero por la página
+pago;quiero abonar en el sitio web
+pago;necesito pagar por la aplicación mi entel
+pago;donde puedo ir a pagar en mi entel
+pago;quiero ir a pagar a la app
+pago;quiero abonar un pago en la pagina web
+pago;necesito porder hacer un pago por el pc
+pago;como puedo pagarles por el computador
+pago;realizar varios pagos por el telefono
+pago;tengo que ponerme al día con los pagos usando mi entel
+pago;puedo pagar en mi celu
+pago;quiero abonar en la app
+pago;necesito pagar usando mi entel
+pago;como puedo cancelar la deuda usando mi entel
+pago;quiero saldar la deuda por la app
+pago;necesito realizar un abono en mi pagina
+pago;donde puedo ir a pagar a la sucursal en mi app
+pago;quiero ir a pagar en la pagina mi entel
+boleta_detalle;quiero ir a pagar mi boleta
+boleta_detalle;cual es lo detallado de mi boleta
+boleta_detalle;necesito revisar el detalle de las boletas
+boleta_detalle;donde puedo ver a un nivel detallado mi boleta
+boleta_detalle;necesito un nivel de detalle de todas las boletas que tengo
+boleta_detalle;quiero el detalle de las boletas y facturas
+boleta_detalle;mi boleta no tiene el detalle
+boleta_detalle;donde esta el detalle de las boletas
+boleta_detalle;como puedo saber el detalle de la deuda de mi boleta
+boleta_detalle;no se cuanto debo en mi boleta
+boleta_detalle;cual es el nivel de detalle de mi boleta
+boleta_detalle;quiero la boleta lo mas detallada posible
+boleta_detalle;donde puedo obtener el detalle de las boletas
+boleta_detalle;no tengo nada detallado
+boleta_detalle;quiero saber cuantos minutos me he gastado
+boleta_detalle;no se cuanto me van a cobrar en la boleta
+boleta_detalle;cuanta plata tengo que pagar
+boleta_detalle;cuanta plata debo en entel
+boleta_detalle;cual es la deuda que tengo
+boleta_detalle;tengo una deuda pero no se el detalle
+boleta_detalle;cuanta plata estoy debiendo
+boleta_detalle;no se cuanto tengo que pagar
+boleta_detalle;me puede decir cuanta plata debo
+boleta_detalle;cual es el nivel detallado de mi deuda
+boleta_detalle;envíeme un nivel detallado de lo que debo
+boleta_detalle;saber el detalle de mis cobros
+boleta_detalle;cuanto me van a cobrar este mes
+boleta_detalle;no tengo nada detallado
+boleta_detalle;cuanta plata debo en el plan
+boleta_detalle;me gustaria saber la deuda actual
+boleta_detalle;cuanta plata tengo que pagarles
+boleta_detalle;necesito un nivel de detalle de mis cobros
+boleta_detalle;no me ha llegado la boleta
+boleta_detalle;cual es la deuda que aparece en mi boleta
+boleta_detalle;cuanta plata se debe
+boleta_detalle;porque no me ha llegado la boleta
+boleta_detalle;cuanta plata debemos
+boleta_detalle;conocer detalladamente mis cobros
+boleta_detalle;saber exactamente cuanto debo
+boleta_detalle;cuanta plata debemos en el plan
+boleta_detalle;no tengo el detalle de la deuda
+boleta_detalle;me puede mandar el detalle por favor
+boleta_detalle;necesito revisar el detalle de todos los cobros
+boleta_detalle;hay unos cobros medios extraños en la boleta
+boleta_detalle;me estan cobrando demás en el plan
+boleta_detalle;cuanto dinero debo en mi boleta
+boleta_detalle;el detalle del cobro no es exacto ni detallado
+boleta_detalle;donde puedo saber cual es lo adeudado
+boleta_anterior;cual es la boleta del mes pasado
+boleta_anterior;no tengo la boleta del mes anterior
+boleta_anterior;cual es la deuda del mes pasado
+boleta_anterior;me puede enviar el detalle del mes anterior
+boleta_anterior;no tengo la boleta del mes pasado
+boleta_anterior;quiero saber el detalle de las boletas anteriores
+boleta_anterior;no me han llegado las boletas anteriores
+boleta_anterior;cual es la boleta anterior
+boleta_anterior;necesito saber cual es la deuda total o anterior
+boleta_anterior;las boletas de los meses pasados
+boleta_anterior;no tengo todas las boletas
+boleta_anterior;no me ha llegado el detalle de todas las boletas anteriores
+boleta_anterior;cuantas boletas no he pagado
+boleta_anterior;cuales boletas están pendientes
+boleta_anterior;tengo varias boletas pendientes anteriormente
+boleta_anterior;cuales son las boletas anteriormente pendientes
+boleta_anterior;que boletas tengo pendientes
+boleta_anterior;cuales boletas no he pagado
+boleta_anterior;cual es la deuda que tengo atrazada
+boleta_anterior;tengo una deuda impaga y necesito saber el detalle
+boleta_anterior;cuanta plata tengo adeudada
+boleta_anterior;necesito el detalle de mis deudas anteriores
+boleta_anterior;cuanta plata debo de hace varios meses
+boleta_anterior;cual es la deuda atrazada que tengo
+boleta_anterior;quiero un nivel de detalle anterior de mi boleta
+boleta_anterior;cual es la boleta anterior
+boleta_anterior;cuantas boletas tengo adeudadas
+boleta_anterior;porque no me han llegado las boletas anteriores
+boleta_anterior;quiero el detalle de todas las boletas
+boleta_anterior;necesito la totalidad de todas las boletas
+boleta_anterior;envíeme todas las boletas que hay
+boleta_anterior;cuantas boletas tengo impagas
+boleta_anterior;debo varias boletas de meses pasados
+boleta_anterior;cuales boletas estan atrazadas
+boleta_anterior;las boletas anteriores no me han llegado
+boleta_anterior;quiero poder ver todas las boletas anteriores
+boleta_anterior;la boleta del mes anterior
+boleta_anterior;cual es la boleta del mes que paso
+boleta_anterior;la boleta de hace 2 meses atraz
+boleta_anterior;neceito del detalle de mi deuda pasada
+boleta_anterior;cuanta plata debo del mes anterior
+boleta_anterior;cuantas boletas tengo acumuladas
+boleta_anterior;cuantas boletas no de han pagado
+boleta_anterior;cuantas boletas se deben
+boleta_anterior;necesito todas las boletas anteriores
+boleta_anterior;cual es la deuda acumulada anteriormente
+boleta_anterior;porque no me llegan las boletas anteriores
+boleta_anterior;no tengo el detalle de la deuda anterior
+boleta_anterior;necesito las boletas del año pasado
+boleta_anterior;no hay boletas de los meses anteriores
+boleta_anterior;quiero el detalle de la totalidad de las boletas
+comprar_bolsa;quiero comprar una bolsa
+comprar_bolsa;donde puedo adquirir una bolsa de minutos
+comprar_bolsa;como se compran las bolsas
+comprar_bolsa;como puedo comprar una bolsa
+comprar_bolsa;necesito comprar varias bolsas
+comprar_bolsa;tienen bolsas
+comprar_bolsa;de que forma se compran las bolsas
+comprar_bolsa;necesito tener una bolsa
+comprar_bolsa;quiero suscribirme a una bolsa
+comprar_bolsa;como puedo optar a una bolsa
+comprar_bolsa;cuantas bolsas puedo comprar
+comprar_bolsa;se me hace necesaria una bolsa
+comprar_bolsa;estoy cotizando algunas bolsas de minutos
+comprar_bolsa;necesito disponer de una bolsa ya
+comprar_bolsa;quiero una bolsa de minutos ilimitada
+comprar_bolsa;necesito ver una bolsa
+comprar_bolsa;quiero contratar minutos con bolsa
+comprar_bolsa;tienen bolsas de minutos para llamar
+comprar_bolsa;me dijeron que venden bolsas
+comprar_bolsa;como se comprar las bolsas
+comprar_bolsa;donde venden bolsas de minutos
+comprar_bolsa;quiero comprarme una bolsa
+comprar_bolsa;necesito regalar una bolsa
+comprar_bolsa;donde puedo encontrar bolsas de minutos
+comprar_bolsa;se me acabaron las bolsas
+comprar_bolsa;tiene promociones de bolsas
+comprar_bolsa;como contratar una bolsa
+comprar_bolsa;como adquirir varias bolsas
+comprar_bolsa;me interesa contratar una bolsa
+comprar_bolsa;vendame una bolsa de minutos
+comprar_bolsa;quiero disponer de la mejor bolsa que tenga
+comprar_bolsa;necesito contratar una bolsa con ustedes
+comprar_bolsa;cuantas bolsas le quedan
+comprar_bolsa;necesito una bolsa para llamar
+comprar_bolsa;le queda la famosa bolsa de minutos
+comprar_bolsa;todavia estan las bolsas
+comprar_bolsa;cuanto sale una bolsa
+comprar_bolsa;vendame una bolsa de minutos
+comprar_bolsa;solo necesito una bolsa
+comprar_bolsa;voy acomprar una bolsa
+comprar_bolsa;donde se comprarn las bolsas
+comprar_bolsa;hay alguna buena bolsda de minutos
+comprar_bolsa;quiero tener una bolsa
+comprar_bolsa;me puede vender la bolsa mas barata
+comprar_bolsa;quiero contratar la bolsa de minutos
+comprar_bolsa;contrateme una buena bolsa
+comprar_bolsa;voy a contratarle la bolsa de minutos
+comprar_bolsa;necesito una buena bolsa
+comprar_bolsa;deme varias bolsas de minutos
+comprar_bolsa;quiero comprar la bolsa de varios megas
+comprar_bolsa;deme una bolsa de minutos
+bolsa_disponible;cuales son las bolsas disponibles
+bolsa_disponible;cuales son las bolsas que dispone
+bolsa_disponible;necsito saber que bolsas de minutos hay disponibles
+bolsa_disponible;cual es la disponibilidad de bolsas de minutos
+bolsa_disponible;tiene bolsas de minutos disponibles
+bolsa_disponible;disponde de alguna bolsa de minutos
+bolsa_disponible;le quedan bolsas disponibles
+bolsa_disponible;que alternativas de bolsas existen
+bolsa_disponible;cuales son las bolsas que tiene
+bolsa_disponible;que tipo de bolsas tiene
+bolsa_disponible;cuantas son las bolsas disponibles
+bolsa_disponible;cuales son las bolsas disponibles para contratar
+bolsa_disponible;que bolsas dispone actualmente
+bolsa_disponible;cuales son las bolsas que se disponen actualmente
+bolsa_disponible;que bolsas me recomienda
+bolsa_disponible;que bolsas puedo contratar
+bolsa_disponible;le quedan bolsas disponibles para llamar
+bolsa_disponible;que alternativas para contratar bolsas existen
+bolsa_disponible;cual es la disponibilidad de bolsas de minutos
+bolsa_disponible;dispone de bolsas
+bolsa_disponible;cual es la disponibilidad de las bolsas
+bolsa_disponible;cuantas bolsas de minutos existen
+bolsa_disponible;indiqueme la mejor bolsa disponible
+bolsa_disponible;que tipo de bolsa me conviene contratar
+bolsa_disponible;cual es la mejor bolsa de minutos
+bolsa_disponible;necesito una bolsa que se adapte a mi plan
+bolsa_disponible;cuantos tipos de bolsas se pueden contratar
+bolsa_disponible;tienen disponible bolsas para llamar
+bolsa_disponible;cuales son las alternativas de bolsas
+bolsa_disponible;que bolsa dispone actualmente
+bolsa_disponible;cual es bolsa que mejor se ajusta a mi perfil
+bolsa_disponible;las bolsas estan disponibles
+bolsa_disponible;no se si hay bolsas disponibles
+bolsa_disponible;como saber que tipo de bolsas me conviene contratar
+bolsa_disponible;deme la mejor bolsa disponible
+bolsa_disponible;quiero contratar una bolsa disponible
+bolsa_disponible;que tipo de bolsas de minutos me recomienda
+bolsa_disponible;me puede recomendar una bolsa
+bolsa_disponible;cual es la mejor bolsa de minutos que existe
+bolsa_disponible;cuales son los tipos de bolsas que existen
+bolsa_disponible;no se cual tipo de bolsa contratar
+bolsa_disponible;no se que bolsa puedo contratar
+bolsa_disponible;cual tipo de bolsa me conviene contratar
+bolsa_disponible;con cual tipo de bolsa me puedo quedar
+bolsa_disponible;que bolsa dispone para contratar
+bolsa_disponible;cuales son las mejores bolsas disponibles
+bolsa_disponible;tiene alguna bolsa disponible por ahi
+bolsa_disponible;cual es la disponibilidad de contratar bolsas
+bolsa_disponible;que tipo de bolsas podría contratar
+bolsa_disponible;las bolsas de minutos disponibles
+bolsa_contratada;las bolsas de minutos contratadas
+bolsa_contratada;como reviso cuantas boletas tengo contratadas
+bolsa_contratada;que bolsas tengo contratada
+bolsa_contratada;como reviso cuantas bolsas tengo contratadas
+bolsa_contratada;como puedo saber cuales bolsas tengo
+bolsa_contratada;que bolsas tengo contratadas
+bolsa_contratada;quiero consultar por mis bolsas contratadas
+bolsa_contratada;que bolsas de minutos tengo contratadas
+bolsa_contratada;cuales son las bolsas que tengo
+bolsa_contratada;que bolsas de minutos tengo actualmente
+bolsa_contratada;cuantas bolsas he contratado
+bolsa_contratada;tengo contratadas algunas bolsas de minutos
+bolsa_contratada;cuales son las bolsas de minutos que tengo
+bolsa_contratada;cual es la bolsa que tengo contratada
+bolsa_contratada;no se que tipo de bolsa tengo
+bolsa_contratada;cual es la bolsa que tengo contratada
+bolsa_contratada;me interesa saber cual bolsa tengo vigente
+bolsa_contratada;cuales son las bolsas que tengo vigentes
+bolsa_contratada;tengo alguna bolsa de minutos contratada
+bolsa_contratada;cuales son mis bolsas contratadas
+bolsa_contratada;que bolsa de minutos tengo vigente ahora
+bolsa_contratada;tengo alguna bolsa de minutos vigente
+bolsa_contratada;he contratado bolsas este ultimos mes
+bolsa_contratada;que bolsas contratadas aparecen en el sistema
+bolsa_contratada;le aparece alguna bolsa contratada
+bolsa_contratada;existe alguna bolsa de minutos asociada
+bolsa_contratada;tengo alguna bolsa en algun contrato
+bolsa_contratada;parece que pedí una bolsa hace un tiempo
+bolsa_contratada;figura alguna bolsa a mi nombre
+bolsa_contratada;aparece alguna bolsa asociada a mi persona
+bolsa_contratada;cual es la bolsa que tengo asociada a mi plan
+bolsa_contratada;cual es la bolsa que tengo contratada
+bolsa_contratada;que bolsa aparece contratada
+bolsa_contratada;cuantas bolsas he contratado
+bolsa_contratada;he contratado alguna bolsa de minutos
+bolsa_contratada;le aparece alguna bolsa de minutos contratada
+bolsa_contratada;que bolsa de minutos esta asociada a mi nombre
+bolsa_contratada;aparece alguna bolsa asociada a mi plan
+bolsa_contratada;cual es la bolsa que contrate
+bolsa_contratada;cual bolsa tengo comprada
+bolsa_contratada;donde puedo ver las bolsas que he comprado
+bolsa_contratada;cuales bolsas aparecen contradatas
+bolsa_contratada;que tipo de bolsas he contratado
+bolsa_contratada;contrate unas bolsas hace un tiempo
+bolsa_contratada;cual es la ultima bolsa contratada 
+bolsa_contratada;me indica el detalle de las bolsas contratadas
+bolsa_contratada;contrate una bolsa y no puedo ver el detalle
+bolsa_contratada;cual es la bolsa del contrato 
+bolsa_contratada;se contrataron varias bolsas
+bolsa_contratada;como saber cual es la bolsa contratada
+recarga;necesito recargar mi plan
+recarga;quiero hacer una recarga
+recarga;necesito recargar la bolsa
+recarga;quiero recargar el plan
+recarga;necesito hacer una buena recarga
+recarga;tengo que ir a cargar
+recarga;quiero recargar los minutos del plan
+recarga;hay que hacer una nueva carga
+recarga;como puedo cargar mas minutos
+recarga;necesito hacer una recarga de minutos
+recarga;donde puedo hacer una recarga de minutos
+recarga;quiero recargar mis minutos
+recarga;necesito recargar mi plan contratado
+recarga;donde puedo ir a cargar
+recarga;donde se recargan los planes
+recarga;donde se cargan los planes y minutos
+recarga;como puedo recargar los planes
+recarga;tengo que cargar mas minutos
+recarga;necesito contratar mas minutos
+recarga;quiero cargas mas gigas
+recarga;como recargar el plan
+recarga;donde puedo ir a hacer una nueva recarga
+recarga;como se hacen las cargas de minutos
+recarga;donde se hacen las recargas
+recarga;como se recarga el plan
+recarga;que pasa si se agota el plan
+recarga;me quede sin minutos 
+recarga;ya no tengo mas minutos
+recarga;no me quedan recargas disponibles
+recarga;se me agotaron los minutos que tenia
+recarga;me quede sin recarga de minutos
+recarga;se me agoto la bolsa de minutos
+recarga;estoy sin recargas
+recarga;donde puedo comprar mas minutos
+recarga;necesito añadir mas minutos
+recarga;quiero cargar la bolsa
+recarga;se me agotó la cantidad de minutos
+recarga;estoy sin minutos para poder llamar
+recarga;quiero poder recargar el plan
+recarga;necesito contratar mas minutos 
+recarga;no tengo mas minutos tengo que recargar
+recarga;como puedo recargar
+recarga;tengo que hacer una recarga
+recarga;ayudeme con la recarga
+recarga;tengo que recargarlo hoy
+recarga;como se puede cargar mas minutos
+recarga;donde se hace una recarga de la bolsa
+recarga;donde se cargan mas minutos
+recarga;como funciona la recarga de datos
+recarga;como peudo ir a recargar los planes

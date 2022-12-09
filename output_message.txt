@@ -1,0 +1,5 @@
+case;message;entity
+pago;Puedes pagar tu boleta sin salir de casa, a través de la plataforma que prefieras: #QuédateEnCasa, porque nos preocupamos por ti, puedes realizar tu pago a través de entel.cl / desde Mi Entel / desde App;none
+pago;Para realizar el pago ingresa al siguiente link, ingresa tu Rut y luego selecciona el medio de pago.;web
+pago;Para realizar el pago, ingresa a la App y en la ventana principal encontrarás el botón de Pagar, luego debes seleccionar el medio de pago.;app
+pago;Ingresa al siguiente link, debes ingresar tus datos. En la página principal aparece el botón de pago.;mi_entel
