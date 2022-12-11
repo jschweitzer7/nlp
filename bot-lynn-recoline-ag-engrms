@@ -108,17 +108,17 @@ boleta_anterior;no me han llegado las boletas anteriores
 boleta_anterior;cual es la boleta anterior
 boleta_anterior;necesito saber cual es la deuda total o anterior
 boleta_anterior;las boletas de los meses pasados
-boleta_anterior;no tengo todas las boletas
+boleta_anterior;no tengo todas las boletas anteriores
 boleta_anterior;no me ha llegado el detalle de todas las boletas anteriores
 boleta_anterior;cuantas boletas no he pagado
 boleta_anterior;cuales boletas están pendientes
 boleta_anterior;tengo varias boletas pendientes anteriormente
 boleta_anterior;cuales son las boletas anteriormente pendientes
 boleta_anterior;que boletas tengo pendientes
-boleta_anterior;cuales boletas no he pagado
+boleta_anterior;las boletas anteriores que no he pagado
 boleta_anterior;cual es la deuda que tengo atrazada
 boleta_anterior;tengo una deuda impaga y necesito saber el detalle
-boleta_anterior;cuanta plata tengo adeudada
+boleta_anterior;cuanta plata tengo adeudada anterior
 boleta_anterior;necesito el detalle de mis deudas anteriores
 boleta_anterior;cuanta plata debo de hace varios meses
 boleta_anterior;cual es la deuda atrazada que tengo
@@ -128,7 +128,7 @@ boleta_anterior;cuantas boletas tengo adeudadas
 boleta_anterior;porque no me han llegado las boletas anteriores
 boleta_anterior;quiero el detalle de todas las boletas
 boleta_anterior;necesito la totalidad de todas las boletas
-boleta_anterior;envíeme todas las boletas que hay
+boleta_anterior;envíeme todas las boletas que hay atrazadas
 boleta_anterior;cuantas boletas tengo impagas
 boleta_anterior;debo varias boletas de meses pasados
 boleta_anterior;cuales boletas estan atrazadas
@@ -141,7 +141,7 @@ boleta_anterior;neceito del detalle de mi deuda pasada
 boleta_anterior;cuanta plata debo del mes anterior
 boleta_anterior;cuantas boletas tengo acumuladas
 boleta_anterior;cuantas boletas no de han pagado
-boleta_anterior;cuantas boletas se deben
+boleta_anterior;cuantas boletas se deben de meses anteriores
 boleta_anterior;necesito todas las boletas anteriores
 boleta_anterior;cual es la deuda acumulada anteriormente
 boleta_anterior;porque no me llegan las boletas anteriores
