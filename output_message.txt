@@ -1,11 +1,17 @@
 case;message;entity
-pago;Puedes pagar tu boleta sin salir de casa, a través de la plataforma que prefieras: #QuédateEnCasa, porque nos preocupamos por ti, puedes realizar tu pago a través de entel.cl / desde Mi Entel / desde App;none
+pago;Puedes pagar tu boleta sin salir de casa, a través de la plataforma que prefieras: #QuedateEnCasa, porque nos preocupamos por ti, puedes realizar tu pago a través de entel.cl / desde Mi Entel / desde App;none
 pago;Para realizar el pago ingresa al siguiente link, ingresa tu Rut y luego selecciona el medio de pago.;web
 pago;Para realizar el pago, ingresa a la App y en la ventana principal encontrarás el botón de Pagar, luego debes seleccionar el medio de pago.;app
 pago;Ingresa al siguiente link, debes ingresar tus datos. En la página principal aparece el botón de pago.;mi_entel
 boleta_detalle;Para revisar el detalle de la boleta, ingresa a Mi Entel, en la sección Mis Pagos, puedes revisar el detalle de cada una de tus boletas. También lo puedes revisar a través de la App, en Mis pagos.;none
 boleta_anterior;Para revisar el detalle de la boleta, ingresa a Mi Entel, en la sección Mis Pagos, puedes revisar el detalle de cada una de tus boletas. También lo puedes revisar a través de la App, en Mis pagos.;none
 comprar_bolsa;#QuédateEnCasa porque nos preocupamos por ti, puedes realizar la compra de tu bolsa desde la App, Mi Entel y Entel lite o llamando al 103 marcando la opción 3.;none
-bolsa_disponible;Ingresa al Link https://www.entel.cl/prepago/; none
+bolsa_disponible;Ingresa al Link https://www.entel.cl/prepago/;none
 bolsa_contratada;Puedes consultar tus bolsas desde Mi entel, en la sección Mis productos, seleccionando Bolsas y luego Bolsas contratadas, también lo puedes ver desde la APP.;none
 recarga;Recuerda #QuédateEnCasa y utiliza nuetros canales digitales disponibles para Recarga que son: www.entel.cl/recarga y paga con tu redcompra o tarjeta de crédito. En Mi Entel, ingresando a la sección Mis Productos y luego selecciona Recarga.;none
+no_funciona_chip;Estamos con atención reducida, sin embargo queremos entregarte la mejor solución a tus inconvenientes, por eso te solicitamos que puedas comprar un Chip en Supermercados o Farmacias y luego te pongas en contacto por nuestros canales digitales con uno de nuestros ejecutivos y poder solucionar tu requerimiento.;none
+donde_comprar_chip;El chip lo puedes adquirir en Supermercados y Farmacias;none
+que_hacer_chip;Si ya tienes el chip en tu poder NO DEBES ingresarlo en tu equipo, contáctanos por nuestros canales digitales con uno de nuestros ejecutivos y poder solucionar tu requerimiento. Recuerda que estamos con atenciones reducidas por lo que podríamos tardar más de lo habitual.;none
+sin_servicio;El tiempo máximo de la reposición de servicio es de 24 horas entre el momento en que pagas y el momento en que el pago se ingresa en nuestros sistemas.;none
+reponer_servicio;Si has tenido problemas para pagar tu boleta, y sólo tienes una Boleta pendiente, te damos la posibilidad de reponer tu servicio por los próximos 2 días, sin costo adicional.Para servicio Móvil , llama al 103 desde el móvil a reponer y marca la opción 1. Si tienes más de una boleta impaga Hogar o Móvil, te invitamos a pagar tu cuenta aquí, en la App de entel o en Mi Entel.;none
+
