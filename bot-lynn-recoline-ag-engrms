@@ -350,26 +350,26 @@ recarga;donde se hace una recarga de la bolsa
 recarga;donde se cargan mas minutos
 recarga;como funciona la recarga de datos
 recarga;como peudo ir a recargar los planes
-no_funciona_chip;no funciona mi chip, dónde puedo cambiarlo
-no_funciona_chip;quiero cambiar el chip de mi tarjeta a donde puedo ir
-no_funciona_chip;esta malo mi chip necesito otro donde lo hago
-no_funciona_chip;quiero otro chip donde lo cambian
-no_funciona_chip;necesito cambiar de chip donde se hace
-no_funciona_chip;donde podría cambiar por otro chip
+no_funciona_chip;no funciona mi chip
+no_funciona_chip;tengo malo el chip de la tarjeta
+no_funciona_chip;esta malo mi chip necesito otro
+no_funciona_chip;quiero otro chip
+no_funciona_chip;necesito cambiar de chip
+no_funciona_chip;tengo malo mi chip
 no_funciona_chip;se daño el chip y debo cambiarlo
-no_funciona_chip;se me echo a perder la sim card y quiero otra donde se cambia
-no_funciona_chip;parece que cagó mi chip, donde lo puedo cambiar
-no_funciona_chip;donde me consigo otro chip
+no_funciona_chip;se me echo a perder la sim card
+no_funciona_chip;parece que cagó mi chip
+no_funciona_chip;donde puedo cambiar el chip dañado
 no_funciona_chip;donde puedo cambiar otra sim card
 no_funciona_chip;quien puede cambiarme otra sim
-no_funciona_chip;como hacer para acmbiar la sim
-no_funciona_chip;necesito hacer un cambio de chip, donde se hace
+no_funciona_chip;como hacer para cambiar la sim
+no_funciona_chip;necesito hacer un cambio de chip
 no_funciona_chip;donde puedo hacer un cambio de sim
 no_funciona_chip;donde se hacen los cambios de chip
 no_funciona_chip;en que lugar se cambian los chip
-no_funciona_chip;donde puedo cambiar el chip que no me funciona
-no_funciona_chip;se me daño el chip donde lo cambio
-no_funciona_chip;fallo mi sim card donde la puedo cambiar
+no_funciona_chip;chip que no me funciona
+no_funciona_chip;se me daño el chip 
+no_funciona_chip;fallo mi sim card
 no_funciona_chip;donde puedo ir a renovar mi chip
 no_funciona_chip;en que sitio se cambian los chip dañados
 no_funciona_chip;donde puedo ir a cambiar mi chip
@@ -405,16 +405,16 @@ no_funciona_chip;mi chip esta malo donde puedo ir a cambiarlo
 no_funciona_chip;necesito un cambio de chip por reparación a donde se puede hacer
 no_funciona_chip;por falla necesito un cambio de chip donde se puede hacer
 donde_comprar_chip;donde se compran los chip
-donde_comprar_chip;no funciona mi chip, dónde puedo comprarlo
+donde_comprar_chip;necesito comprar un chip
 donde_comprar_chip;quiero comprar el chip de mi tarjeta
-donde_comprar_chip;esta malo mi chip necesito comprar
+donde_comprar_chip;donde se puede comprar una nueva sim
 donde_comprar_chip;quiero comprar otro chip
 donde_comprar_chip;necesito comprar un chip
 donde_comprar_chip;que puedo hacer para comprar otro chip
-donde_comprar_chip;mi chip parece que esta dañado y necesito comprar otro
-donde_comprar_chip;se daño el chip y debo comprar otro
-donde_comprar_chip;se me echo a perder la sim card y quiero comprar otro
-donde_comprar_chip;parece que cagó mi chip, quien puede venderme uno
+donde_comprar_chip;necesito comprar un chip nuevo
+donde_comprar_chip;debo comprar otro chip
+donde_comprar_chip;quiero adquirir otro chip
+donde_comprar_chip;donde venden nuevos chip
 donde_comprar_chip;donde me compro otro chip
 donde_comprar_chip;donde puedo comprar otra sim card
 donde_comprar_chip;quien puede comprarme otra sim
@@ -424,24 +424,24 @@ donde_comprar_chip;donde puedo hacer una compra de sim
 donde_comprar_chip;donde se hacen las compras de chip
 donde_comprar_chip;en que lugar se compran los chip
 donde_comprar_chip;donde puedo comprar el chip que no me funciona
-donde_comprar_chip;se me daño el chip donde lo compro
-donde_comprar_chip;fallo mi sim card donde la puedo comprar
+donde_comprar_chip;donde compro otro chip
+donde_comprar_chip;donde puedo adquirir un nuevo chip
 donde_comprar_chip;donde puedo ir a comprar mi chip
-donde_comprar_chip;en que sitio se compran los chip dañados
+donde_comprar_chip;en que sitio se compran los chip
 donde_comprar_chip;donde puedo ir a comprar mi chip
-donde_comprar_chip;cago mi chip donde puedo ir a comprarlo
+donde_comprar_chip;cago mi chip que hago
 donde_comprar_chip;a que sucursal puedo ir a comprar el chip
 donde_comprar_chip;en que lugar se compran los chip
-donde_comprar_chip;se me daño la sim donde la puedo comprar
-donde_comprar_chip;donde puedo comprar mi chip que se daño
-donde_comprar_chip;no me funciona la sim donde puede comprarla
+donde_comprar_chip;donde compro otra sim card
+donde_comprar_chip;donde puedo comprar mi chip
+donde_comprar_chip;donde me venden otra sim
 donde_comprar_chip;donde puedo hacer una compra de chip
 donde_comprar_chip;donde hago una compra de chip
 donde_comprar_chip;en cual lugar se compran los chip
 donde_comprar_chip;donde están comprando los chip
-donde_comprar_chip;si se me hecha a perder el el chip donde puedo comprarlo
-donde_comprar_chip;estoy con el chip malo donde lo puedo comprar
-donde_comprar_chip;donde compro mi chip
+donde_comprar_chip;quien y donde venden los chip de celulares
+donde_comprar_chip;estoy sin chip donde se puede comprar
+donde_comprar_chip;donde se mandan apedir los chip
 donde_comprar_chip;a donde se puede ir a comprar el chip
 donde_comprar_chip;en que parte puedo comprar el chip
 donde_comprar_chip;en que lugar se hacen compras de chip
@@ -457,9 +457,9 @@ donde_comprar_chip;estoy sin chip por falla donde lo puedo ir a comprar
 donde_comprar_chip;quiero comprar mi chip donde puedo ir a hacerlo
 donde_comprar_chip;necesito hacer una compra de chip donde puedo ir
 donde_comprar_chip;necesito comprar la sim donde puedo ir 
-donde_comprar_chip;mi chip esta malo donde puedo ir a adquirirlo
-donde_comprar_chip;necesito adquirir un chip por reparación a donde se puede hacer
-donde_comprar_chip;por falla necesito adquirir un chip donde se puede hacer
+donde_comprar_chip;donde puedo ir a adquirir otro chip
+donde_comprar_chip;necesito adquirir un chip
+donde_comprar_chip;necesito adquirir un chip donde se puede hacer
 que_hacer_chip;ya compre un chip que debo hacer
 que_hacer_chip;tengo un chip y necesito habilitarlo
 que_hacer_chip;como habilito mi chip
