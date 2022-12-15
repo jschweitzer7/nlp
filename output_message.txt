@@ -16,7 +16,7 @@ sin_servicio;El tiempo máximo de la reposición de servicio es de 24 horas entr
 reponer_servicio;Si has tenido problemas para pagar tu boleta, y sólo tienes una Boleta pendiente, te damos la posibilidad de reponer tu servicio por los próximos 2 días, sin costo adicional.Para servicio Móvil , llama al 103 desde el móvil a reponer y marca la opción 1. Si tienes más de una boleta impaga Hogar o Móvil, te invitamos a pagar tu cuenta aquí, en la App de entel o en Mi Entel.;none
 bloqueo_equipo;Puedes bloquear tu equipo de forma automática llamando al 103, si eres prepago marca la opción 6, cuenta controlada opción 5 y suscripción opción 4.;none
 desbloqueo_equipo;Si tu equipo fue bloqueado por extravío, puedes desbloquearlo de forma automática llamando al 103, si eres prepago opción 6, cuenta controlada opción 5 y suscripción opción 4. Si tu equipo fue bloqueado por Robo/Hurto, para poder desbloquear tu equipo/servicio, primero debes comprar un chip que lo puedes adquirir en supermecados y farmacias.;none
-saludo;Soy tu asistente virtual y te puedo ayudar con: pagos, boletas, compra de bolsas, recargas, cambio de chip, problemas con el servicio, bloqueo y desbloqueo de equipo.
-despedida;gracias por contactarte conmigo.
-agradecimiento;de nada, estoy para ayudarte.
-consulta_bot;soy un asistente virtual y estoy para ayudarte con:pagos, boletas, compra de bolsas, recargas, cambio de chip, problemas con el servicio, bloqueo y desbloqueo de equipo.
+saludo;Soy tu asistente virtual y te puedo ayudar con: pagos, boletas, compra de bolsas, recargas, cambio de chip, problemas con el servicio, bloqueo y desbloqueo de equipo.;none
+despedida;gracias por contactarte conmigo.;none
+agradecimiento;de nada, estoy para ayudarte.;none
+consulta_bot;soy un asistente virtual y estoy para ayudarte con:pagos, boletas, compra de bolsas, recargas, cambio de chip, problemas con el servicio, bloqueo y desbloqueo de equipo.;none
