@@ -359,51 +359,51 @@ no_funciona_chip;tengo malo mi chip
 no_funciona_chip;se daño el chip y debo cambiarlo
 no_funciona_chip;se me echo a perder la sim card
 no_funciona_chip;parece que cagó mi chip
-no_funciona_chip;donde puedo cambiar el chip dañado
-no_funciona_chip;donde puedo cambiar otra sim card
-no_funciona_chip;quien puede cambiarme otra sim
+no_funciona_chip;mi chip está dañado
+no_funciona_chip;esta mala mi sim card
+no_funciona_chip;no me funciona el chip
 no_funciona_chip;como hacer para cambiar la sim
 no_funciona_chip;necesito hacer un cambio de chip
 no_funciona_chip;donde puedo hacer un cambio de sim
-no_funciona_chip;donde se hacen los cambios de chip
-no_funciona_chip;en que lugar se cambian los chip
+no_funciona_chip;mi chip esta malo
+no_funciona_chip;se me echo aperder el chip
 no_funciona_chip;chip que no me funciona
 no_funciona_chip;se me daño el chip 
 no_funciona_chip;fallo mi sim card
-no_funciona_chip;donde puedo ir a renovar mi chip
-no_funciona_chip;en que sitio se cambian los chip dañados
-no_funciona_chip;donde puedo ir a cambiar mi chip
+no_funciona_chip;tengo dañado el chip y la sim
+no_funciona_chip;tengo todos mis chip dañados
+no_funciona_chip;se me echo aperder la sim card
 no_funciona_chip;cago mi chip donde puedo ir a cambiarlo
-no_funciona_chip;a que sucursal puedo ir acambiar el chip
-no_funciona_chip;en que lugar se reparan los chip dañados
-no_funciona_chip;se me daño la sim donde la puedo renovar
-no_funciona_chip;donde puedo renovar mi chip que se daño
-no_funciona_chip;no me funciona la sim donde puede cambiarla
-no_funciona_chip;donde puedo hacer un cambio de chip
-no_funciona_chip;donde hago una renovación de chip
-no_funciona_chip;en cual lugar se cambian los chip
-no_funciona_chip;donde están arreglando los chip malos
-no_funciona_chip;si se me hecha a perder el el chip donde puedo cambiarlo
-no_funciona_chip;estoy con el chip malo donde lo puedo cambiar
-no_funciona_chip;donde cambio mi chip
-no_funciona_chip;a donde se puede ir a cambiar el chip
-no_funciona_chip;en que parte puedo cambiar el chip dañado
-no_funciona_chip;en que lugar se hacen cambios de chip malos
-no_funciona_chip;quiero ir a renovar mi chip malo donde puedo ir
-no_funciona_chip;necesito urgente un cambio de chip donde puedo ir
-no_funciona_chip;donde se hacen los cambios de nuevos chip
-no_funciona_chip;a donde ir para renovar el chip
-no_funciona_chip;a que parte ir para cambiar el chip
-no_funciona_chip;donde puedo ir para cambiar mi chip
-no_funciona_chip;mi chip cago donde lo puedo ir a cambiar
-no_funciona_chip;quiero ir a cambiar el chip pero no se donde
-no_funciona_chip;estoy sin chip por falla donde lo puedo ir a renovar
-no_funciona_chip;quiero cambiar mi chip donde puedo ir a hacerlo
-no_funciona_chip;necesito hacer un cambio de chip donde puedo ir
-no_funciona_chip;necesito cambio de la sim donde puedo ir 
-no_funciona_chip;mi chip esta malo donde puedo ir a cambiarlo
-no_funciona_chip;necesito un cambio de chip por reparación a donde se puede hacer
-no_funciona_chip;por falla necesito un cambio de chip donde se puede hacer
+no_funciona_chip;esta roto mi chip
+no_funciona_chip;como se reparan los chip dañados
+no_funciona_chip;se me daño la sim
+no_funciona_chip;mi chip que se daño
+no_funciona_chip;no me funciona la sim
+no_funciona_chip;el chip dejo de funcionar parece que esta malo
+no_funciona_chip;mi chip no hace nada esta malo
+no_funciona_chip;se echo aperder mi chip y tarjeta
+no_funciona_chip;necesito arreglar mi chip malo
+no_funciona_chip;si se me hecha a perder el el chip
+no_funciona_chip;estoy con el chip malo
+no_funciona_chip;esta malo y dañado el chip
+no_funciona_chip;parece que cago mi chip
+no_funciona_chip;no me funciona el chip
+no_funciona_chip;mi chip esta funcionando mal
+no_funciona_chip;el chip que tengo esta malo
+no_funciona_chip;esta malo no funciona el chip
+no_funciona_chip;el chip no hace nada
+no_funciona_chip;se daño totalmente el chip
+no_funciona_chip;estoy con el chip dañado
+no_funciona_chip;mi chip se echo a perder
+no_funciona_chip;mi chip cago esta malo
+no_funciona_chip;se daño el chip
+no_funciona_chip;mi chip presenta fallas
+no_funciona_chip;el chip está fallando
+no_funciona_chip;se daño totalmente el chip no funciona
+no_funciona_chip;tengo problemas con el chip
+no_funciona_chip;el chip que tengo se daño
+no_funciona_chip;necesito reparar mi chip
+no_funciona_chip;el chip presenta fallas
 donde_comprar_chip;donde se compran los chip
 donde_comprar_chip;necesito comprar un chip
 donde_comprar_chip;quiero comprar el chip de mi tarjeta
@@ -429,7 +429,7 @@ donde_comprar_chip;donde puedo adquirir un nuevo chip
 donde_comprar_chip;donde puedo ir a comprar mi chip
 donde_comprar_chip;en que sitio se compran los chip
 donde_comprar_chip;donde puedo ir a comprar mi chip
-donde_comprar_chip;cago mi chip que hago
+donde_comprar_chip;donde se adquieren los chip
 donde_comprar_chip;a que sucursal puedo ir a comprar el chip
 donde_comprar_chip;en que lugar se compran los chip
 donde_comprar_chip;donde compro otra sim card
